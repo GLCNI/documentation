@@ -6,3 +6,4 @@ build
 yarn.lock
 .obsidian
 docs/.obsidian
+yarn-error.log
